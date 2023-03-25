@@ -2,10 +2,10 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gulikholmatova.github.io/serverless-app/",
+  "homepage": "https://sarangkharche.github.io/Media-Analyser-FFmpeg/",
   "dependencies": {
     "axios": "^0.18.0",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.7.0",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.7.0",
