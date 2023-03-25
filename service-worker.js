@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Media-Analyser-FFmpeg/precache-manifest.434929bd158eb5dc6f00f956e604f50d.js"
+  "/Media-Analyser-FFmpeg/precache-manifest.d12813fbfb1d5a6ca8fa91c12dab4eaf.js"
 );
 
 workbox.clientsClaim();
