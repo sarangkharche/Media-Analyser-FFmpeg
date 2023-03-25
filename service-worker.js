@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sarangkharche/Media-Analyser-FFmpeg/precache-manifest.ce39870beed1d15d18685e335a5fdd18.js"
+  "/Media-Analyser-FFmpeg/precache-manifest.434929bd158eb5dc6f00f956e604f50d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sarangkharche/Media-Analyser-FFmpeg/index.html", {
+workbox.routing.registerNavigationRoute("/Media-Analyser-FFmpeg/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
